@@ -96,7 +96,7 @@ class MainActivity : ComponentActivity() {
 //        @StringRes val text: Int
 //    )
 
-    @Preview(showBackground = true,  backgroundColor = 0xFFE1F5FE, heightDp = 180)
+    @Preview(showBackground = true,  backgroundColor = 0xFF354458, heightDp = 180)
     @Composable
     fun HomeScreenPreview() {
         SootheAppTheme { SootheAppPortrait() }
